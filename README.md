@@ -17,7 +17,7 @@ Python (Numpy, Pandas, Matploylib, Seaborn, Plotly)
 Tableau(Interactive Visualizations)
 
 # 🚀 Data Cleaning & Preparation
-Handeling NaN Values, converted data type
+Handeling NaN Values, converted data type, Rename Column
 
 # Exploratory Data Analysis(EDA)
 

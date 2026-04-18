@@ -83,8 +83,7 @@ Website Conversion Funnel Performance Analysis & Optimization.twbx
 5. Leverage high-performing campaigns to maximize revenue efficiency
 
 
-
-
+# Author & Contract
 
 
 

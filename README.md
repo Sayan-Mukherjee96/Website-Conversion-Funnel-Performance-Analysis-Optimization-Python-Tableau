@@ -67,7 +67,7 @@ Handeling NaN Values, converted data type, Rename Column
 # How to Run This Project
 
 1️⃣ Clone the Repository
-
+https://github.com/Sayan-Mukherjee96/Website-Conversion-Funnel-Performance-Analysis-Optimization-Python-Tableau
 
 2️⃣ Open & Run the EDA (Python)
 eda-ecommerce-python.ipynb

@@ -75,13 +75,12 @@ eda-ecommerce-python.ipynb
 3️⃣ Open Tableau Dashboard
 Website Conversion Funnel Performance Analysis & Optimization.twbx
 
-# Final Recommendations
-1. Optimize mobile UX and simplify navigation to reduce user friction
-2. Streamline checkout by reducing steps and improving payment options
-3. Optimize landing pages to better match user intent and improve conversions
-4. Diversify traffic sources to reduce risk and improve acquisition quality
-5. Leverage high-performing campaigns to maximize revenue efficiency
-
+# Feture Recommendations
+1. reduces high mobile drop-off (71.7%)
+2. improves mobile conversion performance
+3. recovers lost conversions
+4. increases conversion efficiency
+5. lowers marketing risk
 
 # Author & Contract
 

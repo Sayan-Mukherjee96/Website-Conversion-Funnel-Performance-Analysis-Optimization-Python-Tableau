@@ -67,8 +67,7 @@ Handeling NaN Values, converted data type, Rename Column
 # How to Run This Project
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ecommerce-conversion-analysis.git
-cd ecommerce-conversion-analysis
+
 
 2️⃣ Open & Run the EDA (Python)
 eda-ecommerce-python.ipynb
@@ -77,11 +76,11 @@ eda-ecommerce-python.ipynb
 Website Conversion Funnel Performance Analysis & Optimization.twbx
 
 # Final Recommendations
-→ Optimize mobile UX and simplify navigation to reduce user friction
-→ Streamline checkout by reducing steps and improving payment options
-→ Optimize landing pages to better match user intent and improve conversions
-→ Diversify traffic sources to reduce risk and improve acquisition quality
-→ Leverage high-performing campaigns to maximize revenue efficiency
+1. Optimize mobile UX and simplify navigation to reduce user friction
+2. Streamline checkout by reducing steps and improving payment options
+3. Optimize landing pages to better match user intent and improve conversions
+4. Diversify traffic sources to reduce risk and improve acquisition quality
+5. Leverage high-performing campaigns to maximize revenue efficiency
 
 
 

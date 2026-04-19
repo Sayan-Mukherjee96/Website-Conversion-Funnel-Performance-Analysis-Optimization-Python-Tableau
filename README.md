@@ -80,7 +80,8 @@ Website Conversion Funnel Performance Analysis & Optimization.twbx
 
 # Author & Contract
 Sayan Mukherjee
-Email: sayanmukherjee010196@gmail.com
+📧 Email: sayanmukherjee010196@gmail.com
+<img width="512" height="512" alt="linkedin-logo" src="https://github.com/user-attachments/assets/f7ad1943-fb21-46ea-9f0c-eed862b25a09" />
 Linkedin: https://www.linkedin.com/in/sayan-mukherjee-923b6330a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 

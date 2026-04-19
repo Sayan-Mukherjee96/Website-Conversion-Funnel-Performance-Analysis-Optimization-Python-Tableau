@@ -77,7 +77,6 @@ Website Conversion Funnel Performance Analysis & Optimization.twbx
 # 🚀 Future Work
 1. Perform A/B testing on landing pages and campaigns for better conversion
 2. Build predictive models to forecast user behavior and conversion trends
-3. Create real-time dashboards for continuous performance monitoring
 
 # Author & Contract
 Sayan Mukherjee

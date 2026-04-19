@@ -17,7 +17,9 @@ Python (Numpy, Pandas, Matploylib, Seaborn, Plotly)
 Tableau(Interactive Visualizations)
 
 # 🚀 Data Cleaning & Preparation
-Handeling NaN Values, converted data type, Rename Column
+1. Handeling NaN Values
+2. converted data type
+3. column Rename
 
 # Exploratory Data Analysis(EDA)
 1. Desktop drives higher traffic and revenue, while mobile shows growth potential.

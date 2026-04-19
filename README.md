@@ -79,9 +79,9 @@ Website Conversion Funnel Performance Analysis & Optimization.twbx
 2. Build predictive models to forecast user behavior and conversion trends
 
 # Author & Contract
-Sayan Mukherjee
-# 📧 Email: sayanmukherjee010196@gmail.com
-# 🔵 Linkedin: https://www.linkedin.com/in/sayan-mukherjee-923b6330a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+👉 Sayan Mukherjee
+👉 Email: sayanmukherjee010196@gmail.com
+👉 Linkedin: https://www.linkedin.com/in/sayan-mukherjee-923b6330a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
 

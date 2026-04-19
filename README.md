@@ -20,20 +20,10 @@ Tableau(Interactive Visualizations)
 Handeling NaN Values, converted data type, Rename Column
 
 # Exploratory Data Analysis(EDA)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Desktop drives higher traffic and revenue, while mobile shows growth potential.
+2. Gsearch dominates performance; other channels underperform.
+3. Revenue and sessions peaked in 2014, then declined slightly in 2015.
+4. Improved basket size indicates better cross-selling and monetization.
 
 # 🔍 Research Questions & Key Findings
 1. Device Performance:
@@ -82,9 +72,15 @@ Website Conversion Funnel Performance Analysis & Optimization.twbx
 4. increases conversion efficiency
 5. lowers marketing risk
 
+# 🚀 Future Work
+1. Perform A/B testing on landing pages and campaigns for better conversion
+2. Build predictive models to forecast user behavior and conversion trends
+3. Create real-time dashboards for continuous performance monitoring
+
 # Author & Contract
-
-
+Sayan Mukherjee
+Email: sayanmukherjee010196@gmail.com
+Linkedin: https://www.linkedin.com/in/sayan-mukherjee-923b6330a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 
 
